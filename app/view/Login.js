@@ -268,7 +268,7 @@ Ext.define('MyGPS.view.Login', {
            {
                xtype: 'label',
                padding: '5px',
-               html: '<center>Version 2.0</center>'
+               html: '<center>Versions 2.0</center>'
            },
     ]
 
